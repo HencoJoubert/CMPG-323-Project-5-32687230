@@ -1,6 +1,6 @@
 # CMPG-323-Project-5-32687230
 
-How to use the reprot:
+How to use the report:
 
 1. Users will launch the Power BI desktop app or open the Power BI Service where the report was published.
 2. There are three pages to naviagte to and from namely: High Level Metrics, Device Monitoring and Device Registration.
