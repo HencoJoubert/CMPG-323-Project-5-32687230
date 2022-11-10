@@ -1,16 +1,33 @@
 # CMPG-323-Project-5-32687230
 
-OVERVIEW that we were given:
+How to use the reprot:
 
-The Connected Office Initiative (COI) encapsulates the use of IoT devices within the network,
-placed all over the office building, to collect and share the data that these devices gather. The
-data can be shared in different ways. One of which is through visualisations built into a report or
-dashboard. These reports or dashboards can be shared with different stakeholders, potentially
-with different levels of access applied. The COI have been advised that a good way to monitor
-the usage of their IoT devices would be through a report.
-The report will be built in Power BI, as the organisation already has all applicable licensing
-agreements in place with Microsoft, and the report is expected to allow all stakeholders to see the
-same information pertaining to the status of IoT device registrations on various platforms. As a
-member of the COI development team, you are expected to acquire and practise the necessary
-skills to create such a report. 
+1. Users will launch the Power BI desktop app or open the Power BI Service where the report was published.
+2. There are three pages to naviagte to and from namely: High Level Metrics, Device Monitoring and Device Registration.
+3. The user will select a report based on the data they want to see.
+4. Using Filters the user can adjust the report according to their needs.
+5. There is a special columns as well as a measure that the user can also look at.
+
+Steps troughout the project:
+
+1. I installed Power BI Desktop and created a new Power BI Report names 'Connected Office - Device Monitoring'.
+2. I then created 3 pages namely: High Level Metrics, Device Monitoring and Device Registration.
+3. Create a live connection to the data sources that will be used as part of the visualisations to be created and ensured that the connection is secured.
+4. All duplicates were removed and datasets cleaned.
+5. Created a calculated column to enhance the quality of the dataset.
+6. Created a key measure that will enhance the quality of the visualisations.
+7. Added a summary view that shows business stakeholders a high-level view of the ‘important’ data.
+8. Created a visual that allows the user to monitor devices per category.
+9. Create a visual that allows the user to monitor devices per zone.
+10. Created a visual that allows the user to monitor online versus offline devices.
+11. Created a visual that allows the user to see how many devices have been registered over a timespan.
+12. Create a visual that allows the user to see how many categories of devices have been created.
+13. Created a visual that allows the user to see how many zones contain registered devices on a timeline.
+14. Made use of filters that can be applied across pages and visuals.
+15. Added a filter for users to filter the report based on device category.
+16. Added a filter for users to filter the report based on device platform.
+17. Added a filter for users to filter the report based on device zone.
+18. Added a filter for users to filter the report based on device registration date.
+
+
 
